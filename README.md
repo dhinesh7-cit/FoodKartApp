@@ -1,2 +1,32 @@
 # FoodKartApp
-FoodKart is a simple, console-based food delivery application inspired by platforms like Swiggy and UberEats. This project allows users to register as customers or restaurant owners, place food orders, and give ratings to restaurants. It operates without a database or UI, storing everything in memory.
+
+FoodKartApp is a Python-based console application simulating an online food delivery platform. It allows users to register, login, place orders, and rate restaurants.
+
+## Features
+- **User Authentication**: Register and login using email.
+- **Order Management**: Place food orders from available restaurants.
+- **Ratings System**: Rate restaurants based on your experience.
+- **In-Memory Database**: Data is stored temporarily in memory for simulation.
+
+## Tech Stack
+- **Backend**: Python
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/dhinesh7-cit/FoodKartApp.git
+Run the application:
+
+bash
+
+python foodkart.py
+
+Usage:
+Register an account.
+
+Browse restaurants and place an order.
+
+Rate the restaurant after the order is completed.
+
+This will help users understand how to run and interact with your project. Let me know if you need further customization!
