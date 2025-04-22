@@ -18,9 +18,8 @@ FoodKartApp is a Python-based console application simulating an online food deli
    git clone https://github.com/dhinesh7-cit/FoodKartApp.git
 Run the application:
 
-bash
-
-python foodkart.py
+```bash
+   python foodkart.py
 
 Usage:
 Register an account.
