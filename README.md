@@ -20,7 +20,6 @@ Run the application:
 
 ```bash
    python foodkart.py
-
 Usage:
 Register an account.
 
